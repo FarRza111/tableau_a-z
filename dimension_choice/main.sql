@@ -1,5 +1,12 @@
-IF [Parameters].[Dimenson Choice ] = "Clam Date (Year)" THEN Str(DATEPART('year', [Claim Date]) )
-ELSEIF [Parameters].[Dimenson Choice ] = "Insurance Status" THEN [Insurance Status]
-ELSEIF  [Parameters].[Dimenson Choice ] = "Model Line" THEN [Model Line]
-ELSEIF  [Parameters].[Dimenson Choice ] = "Sub Status" THEN [Sub Status]
-end
+/*
+  1) create parameters - Model Line, Status
+  2) Drag Dim Selection Helper in Details 
+  3) Put Sum(Holding Fee) , Sum(Insurance Amount )  (X, Y)
+*/
+
+Dim Selection Helper = 
+
+CASE [dim choices] 
+    WHEN 'Model Line' THEN [Model Line]
+    WHEN 'Status' THEN [Status]
+END
