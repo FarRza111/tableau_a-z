@@ -1,0 +1,151 @@
+Date,Flavor,Total Sales,Location,Payment Method,Avg Price Per Donut,Total Revenue
+2025-02-01,Chocolate,119,Mall,Debit Card,2.79,332.01
+2025-02-01,Glazed,91,Downtown,Credit Card,2.71,246.61
+2025-02-01,Strawberry,292,Suburbs,Mobile Payment,2.68,782.56
+2025-02-01,Vanilla,175,Airport,Cash,1.57,274.75
+2025-02-01,Maple,102,Suburbs,Mobile Payment,2.34,238.68
+2025-02-02,Chocolate,116,Airport,Debit Card,3.23,374.68
+2025-02-02,Glazed,157,Uptown,Credit Card,2.02,317.14
+2025-02-02,Strawberry,105,Suburbs,Credit Card,2.09,219.45
+2025-02-02,Vanilla,50,Mall,Debit Card,1.62,81.0
+2025-02-02,Maple,267,Airport,Debit Card,1.56,416.52
+2025-02-03,Chocolate,294,Uptown,Mobile Payment,1.53,449.82
+2025-02-03,Glazed,245,Suburbs,Debit Card,2.31,565.95
+2025-02-03,Strawberry,106,Suburbs,Debit Card,3.11,329.66
+2025-02-03,Vanilla,239,Mall,Credit Card,2.06,492.34
+2025-02-03,Maple,184,Suburbs,Mobile Payment,2.84,522.56
+2025-02-04,Chocolate,122,Downtown,Mobile Payment,1.93,235.46
+2025-02-04,Glazed,128,Uptown,Mobile Payment,2.27,290.56
+2025-02-04,Strawberry,52,Uptown,Mobile Payment,2.41,125.32
+2025-02-04,Vanilla,174,Uptown,Cash,3.14,546.36
+2025-02-04,Maple,234,Suburbs,Debit Card,3.07,718.38
+2025-02-05,Chocolate,132,Downtown,Credit Card,2.1,277.2
+2025-02-05,Glazed,300,Downtown,Debit Card,1.74,522.0
+2025-02-05,Strawberry,299,Downtown,Mobile Payment,2.68,801.32
+2025-02-05,Vanilla,84,Downtown,Cash,2.92,245.28
+2025-02-05,Maple,254,Uptown,Credit Card,1.85,469.9
+2025-02-06,Chocolate,58,Suburbs,Cash,3.03,175.74
+2025-02-06,Glazed,271,Airport,Cash,2.79,756.09
+2025-02-06,Strawberry,69,Uptown,Credit Card,3.17,218.73
+2025-02-06,Vanilla,133,Suburbs,Debit Card,3.13,416.29
+2025-02-06,Maple,253,Suburbs,Debit Card,1.87,473.11
+2025-02-07,Chocolate,291,Mall,Credit Card,2.74,797.34
+2025-02-07,Glazed,254,Uptown,Cash,2.76,701.04
+2025-02-07,Strawberry,152,Downtown,Credit Card,2.05,311.6
+2025-02-07,Vanilla,107,Uptown,Cash,2.24,239.68
+2025-02-07,Maple,57,Downtown,Cash,3.44,196.08
+2025-02-08,Chocolate,144,Airport,Debit Card,2.29,329.76
+2025-02-08,Glazed,130,Airport,Mobile Payment,1.67,217.1
+2025-02-08,Strawberry,227,Uptown,Credit Card,1.94,440.38
+2025-02-08,Vanilla,176,Airport,Debit Card,1.87,329.12
+2025-02-08,Maple,196,Suburbs,Debit Card,2.6,509.6
+2025-02-09,Chocolate,268,Downtown,Credit Card,2.94,787.92
+2025-02-09,Glazed,202,Suburbs,Cash,2.04,412.08
+2025-02-09,Strawberry,122,Mall,Cash,3.06,373.32
+2025-02-09,Vanilla,100,Airport,Cash,3.42,342.0
+2025-02-09,Maple,277,Suburbs,Mobile Payment,3.0,831.0
+2025-02-10,Chocolate,82,Uptown,Credit Card,1.83,150.06
+2025-02-10,Glazed,130,Mall,Cash,3.48,452.4
+2025-02-10,Strawberry,96,Uptown,Credit Card,1.65,158.4
+2025-02-10,Vanilla,50,Airport,Credit Card,3.09,154.5
+2025-02-10,Maple,170,Suburbs,Mobile Payment,3.25,552.5
+2025-02-11,Chocolate,119,Uptown,Credit Card,2.14,254.66
+2025-02-11,Glazed,254,Downtown,Debit Card,2.48,629.92
+2025-02-11,Strawberry,82,Downtown,Mobile Payment,2.02,165.64
+2025-02-11,Vanilla,108,Mall,Cash,2.1,226.8
+2025-02-11,Maple,117,Airport,Debit Card,1.6,187.2
+2025-02-12,Chocolate,194,Downtown,Credit Card,3.47,673.18
+2025-02-12,Glazed,238,Uptown,Credit Card,2.01,478.38
+2025-02-12,Strawberry,113,Uptown,Debit Card,3.25,367.25
+2025-02-12,Vanilla,54,Suburbs,Mobile Payment,3.46,186.84
+2025-02-12,Maple,244,Airport,Mobile Payment,2.38,580.72
+2025-02-13,Chocolate,268,Airport,Debit Card,1.71,458.28
+2025-02-13,Glazed,60,Airport,Cash,1.51,90.6
+2025-02-13,Strawberry,176,Downtown,Cash,1.78,313.28
+2025-02-13,Vanilla,67,Uptown,Credit Card,1.89,126.63
+2025-02-13,Maple,111,Suburbs,Debit Card,2.59,287.49
+2025-02-14,Chocolate,125,Airport,Cash,2.21,276.25
+2025-02-14,Glazed,139,Airport,Mobile Payment,3.14,436.46
+2025-02-14,Strawberry,294,Downtown,Cash,2.98,876.12
+2025-02-14,Vanilla,175,Downtown,Debit Card,2.89,505.75
+2025-02-14,Maple,288,Airport,Cash,2.94,846.72
+2025-02-15,Chocolate,259,Mall,Debit Card,3.28,849.52
+2025-02-15,Glazed,66,Downtown,Debit Card,3.45,227.7
+2025-02-15,Strawberry,99,Suburbs,Cash,1.85,183.15
+2025-02-15,Vanilla,233,Uptown,Cash,2.66,619.78
+2025-02-15,Maple,246,Airport,Credit Card,1.76,432.96
+2025-02-16,Chocolate,176,Suburbs,Debit Card,2.76,485.76
+2025-02-16,Glazed,82,Downtown,Cash,2.53,207.46
+2025-02-16,Strawberry,136,Mall,Credit Card,3.39,461.04
+2025-02-16,Vanilla,203,Mall,Cash,2.43,493.29
+2025-02-16,Maple,115,Mall,Mobile Payment,2.21,254.15
+2025-02-17,Chocolate,252,Airport,Mobile Payment,3.14,791.28
+2025-02-17,Glazed,185,Downtown,Credit Card,1.92,355.2
+2025-02-17,Strawberry,118,Mall,Cash,1.6,188.8
+2025-02-17,Vanilla,144,Downtown,Cash,2.94,423.36
+2025-02-17,Maple,112,Suburbs,Credit Card,2.43,272.16
+2025-02-18,Chocolate,55,Mall,Credit Card,1.61,88.55
+2025-02-18,Glazed,107,Airport,Mobile Payment,2.2,235.4
+2025-02-18,Strawberry,190,Mall,Cash,3.24,615.6
+2025-02-18,Vanilla,192,Airport,Cash,2.25,432.0
+2025-02-18,Maple,199,Uptown,Debit Card,1.59,316.41
+2025-02-19,Chocolate,230,Mall,Cash,2.01,462.3
+2025-02-19,Glazed,110,Suburbs,Mobile Payment,1.99,218.9
+2025-02-19,Strawberry,264,Mall,Mobile Payment,2.63,694.32
+2025-02-19,Vanilla,76,Mall,Mobile Payment,2.83,215.08
+2025-02-19,Maple,232,Airport,Credit Card,1.62,375.84
+2025-02-20,Chocolate,169,Suburbs,Debit Card,2.91,491.79
+2025-02-20,Glazed,95,Suburbs,Debit Card,2.57,244.15
+2025-02-20,Strawberry,268,Suburbs,Cash,2.0,536.0
+2025-02-20,Vanilla,93,Mall,Credit Card,2.78,258.54
+2025-02-20,Maple,247,Uptown,Mobile Payment,3.35,827.45
+2025-02-21,Chocolate,282,Mall,Debit Card,2.84,800.88
+2025-02-21,Glazed,64,Airport,Credit Card,1.76,112.64
+2025-02-21,Strawberry,232,Downtown,Cash,3.12,723.84
+2025-02-21,Vanilla,273,Downtown,Credit Card,2.01,548.73
+2025-02-21,Maple,125,Uptown,Debit Card,3.35,418.75
+2025-02-22,Chocolate,281,Downtown,Cash,2.6,730.6
+2025-02-22,Glazed,227,Suburbs,Debit Card,3.37,764.99
+2025-02-22,Strawberry,166,Suburbs,Debit Card,2.5,415.0
+2025-02-22,Vanilla,256,Downtown,Cash,2.21,565.76
+2025-02-22,Maple,218,Mall,Cash,2.67,582.06
+2025-02-23,Chocolate,274,Mall,Credit Card,3.4,931.6
+2025-02-23,Glazed,150,Mall,Cash,1.56,234.0
+2025-02-23,Strawberry,174,Downtown,Mobile Payment,2.84,494.16
+2025-02-23,Vanilla,161,Downtown,Debit Card,3.44,553.84
+2025-02-23,Maple,275,Mall,Mobile Payment,2.5,687.5
+2025-02-24,Chocolate,182,Suburbs,Mobile Payment,3.19,580.58
+2025-02-24,Glazed,136,Uptown,Debit Card,1.67,227.12
+2025-02-24,Strawberry,83,Mall,Debit Card,3.39,281.37
+2025-02-24,Vanilla,135,Downtown,Mobile Payment,3.3,445.5
+2025-02-24,Maple,216,Suburbs,Debit Card,2.61,563.76
+2025-02-25,Chocolate,224,Airport,Debit Card,3.24,725.76
+2025-02-25,Glazed,293,Uptown,Debit Card,2.89,846.77
+2025-02-25,Strawberry,73,Downtown,Cash,2.32,169.36
+2025-02-25,Vanilla,250,Uptown,Mobile Payment,3.09,772.5
+2025-02-25,Maple,232,Suburbs,Credit Card,2.66,617.12
+2025-02-26,Chocolate,286,Mall,Cash,2.46,703.56
+2025-02-26,Glazed,186,Downtown,Credit Card,1.79,332.94
+2025-02-26,Strawberry,143,Suburbs,Mobile Payment,1.88,268.84
+2025-02-26,Vanilla,193,Mall,Cash,2.8,540.4
+2025-02-26,Maple,202,Downtown,Mobile Payment,2.91,587.82
+2025-02-27,Chocolate,139,Airport,Mobile Payment,2.92,405.88
+2025-02-27,Glazed,123,Uptown,Debit Card,3.07,377.61
+2025-02-27,Strawberry,177,Uptown,Cash,3.19,564.63
+2025-02-27,Vanilla,132,Airport,Credit Card,3.08,406.56
+2025-02-27,Maple,163,Uptown,Mobile Payment,3.17,516.71
+2025-02-28,Chocolate,115,Uptown,Mobile Payment,2.91,334.65
+2025-02-28,Glazed,88,Mall,Credit Card,3.06,269.28
+2025-02-28,Strawberry,247,Suburbs,Mobile Payment,1.73,427.31
+2025-02-28,Vanilla,294,Suburbs,Credit Card,1.92,564.48
+2025-02-28,Maple,142,Mall,Credit Card,1.66,235.72
+2025-02-29,Chocolate,222,Airport,Cash,1.72,381.84
+2025-02-29,Glazed,57,Downtown,Mobile Payment,2.46,140.22
+2025-02-29,Strawberry,211,Suburbs,Cash,1.65,348.15
+2025-02-29,Vanilla,68,Uptown,Cash,1.54,104.72
+2025-02-29,Maple,254,Uptown,Cash,2.72,690.88
+2025-02-30,Chocolate,168,Suburbs,Credit Card,3.26,547.68
+2025-02-30,Glazed,165,Suburbs,Mobile Payment,2.58,425.7
+2025-02-30,Strawberry,203,Uptown,Mobile Payment,1.91,387.73
+2025-02-30,Vanilla,146,Suburbs,Debit Card,2.73,398.58
+2025-02-30,Maple,105,Suburbs,Cash,1.96,205.8
